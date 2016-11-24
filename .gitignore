@@ -1,0 +1,5 @@
+UrbanSound8K/*
+env/*
+.~lock.train_data.csv#
+neural_net_test.h5
+*.pyc
